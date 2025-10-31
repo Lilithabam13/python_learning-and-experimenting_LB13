@@ -8,7 +8,7 @@ if time.sleep(3) :
 
 
 if len(user_name) <= 7 :
-    print("Real nigga name boi, respect")
+    print("Real boi, respect")
 
 elif len(user_name) <= 10 :
     print("Thats a tad bit long")
