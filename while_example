@@ -1,0 +1,9 @@
+#The following code shows a while statement, which sums successive even integers 2 + 4 + 6 + 8 + ... until the total is greater than 250.
+
+sum = 0
+even_integer = 0
+
+while sum <= 100:
+    sum += even_integer
+    even_integer +=2
+    print(sum)

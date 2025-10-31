@@ -1,0 +1,8 @@
+print("Example 5: ")
+
+sum1 = 0
+i = 0  # initial even integer for the sum
+while sum1 <= 250:
+    sum1 += i
+    i += 2
+    print(sum1) 
