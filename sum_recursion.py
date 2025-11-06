@@ -5,9 +5,10 @@ def list_fuction():
     """
     Returns:
     list_of_ints (list): A list that will be used to calculate sum
-
     """
+    
     list_of_ints = []
+    
     while True:
         try:
             # Prompting user for valid input. 'no_of_ints' variable must be positive and an integer
@@ -43,7 +44,6 @@ except ValueError:
 
 # Function calculating sum of list recursively - includes element at index point
 def adding_up(final_list,index_point):
-
     """ 
     Calculate the sum of integers in a list including given index point
     
@@ -56,7 +56,6 @@ def adding_up(final_list,index_point):
 
     Raises:
     ValueError if index is negative or greater than the length of list
-
     """
    
     if index_point == 0:  # Set base condition ie. n = 0    

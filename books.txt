@@ -1,0 +1,16 @@
+3001,A Tale of Two Cities,Charles Dickens,Unknown,Yes,30
+3002,Harry Potter and the Philosopher's Stone,J.K. Rowling,Unknown,Yes,40
+3003,The Lion, the Witch and the Wardrobe,C.S. Lewis,Unknown,Yes,25
+3004,The Lord of the Rings,J.R.R. Tolkien,Unknown,Yes,37
+3005,Alice's Adventures in Wonderland,Lewis Carroll,Unknown,Yes,12
+3006,The Monk Who Sold His Ferrari,Robin Sharma,Unknown,Yes,0
+3007,The Art of War,Sun Tzu,Unknown,Yes,21
+3008,Kaffir Boy,Mark Mathabane,Unknown,Yes,1
+3009,Cry, the Beloved Country,Alan Paton,Unknown,Yes,0
+3010,Capitec Stalking Giant,T.J Strydom,Unknown,Yes,16
+3011,The 48 Laws of Power,Robert Greene,Unknown,Yes,8
+3012,The Dark Prince,Pieter Du Toit,Unknown,Yes,34
+3013,Abantu Abamnyama Lapa Bavela Ngakhona,Magema M.Fuze,Unknown,Yes,20
+3014,Atomic Habits,James Clear,Self Help,Yes,12
+3015,Python Crash Course: A Hands-on Project-based Introduction to Programming,Eric Maththes,Reference Work,Yes,10
+3016,How to Win,Dale Carnegie,Self Help,Yes,7
